@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is NotSG and I'm a software developer. I'm from India, living in Karnataka. You can find me on [Youtube](https://www.youtube.com/channel/UC28Um7Tu6Jg2g0295s34eMA) And [Discord](https://discord.com/users/877896499487457301) , My Partners Are 
+My name is NotSG and I'm a software developer. You can find me on [Youtube](https://www.youtube.com/channel/UC28Um7Tu6Jg2g0295s34eMA) And [Discord](https://discord.com/users/877896499487457301) , My Partners Are 
 
 ## HarshuboiPlayz - [Github](https://github.com/HarshuboiPlayz), [Discord](https://discord.com/users/838650497828651040)
 
